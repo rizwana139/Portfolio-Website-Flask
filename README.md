@@ -17,7 +17,12 @@ This site showcases my skills, technical background, and includes a contact form
 - **Frontend:** HTML, CSS  
 - **Tools:** VS Code, Git, GitHub
 
-  **Author Name:** Vempalli Rizwana
+## Outcome
 
-  **Email ID:**  rrizzu139@gmail.com
+Real World Mini Web App
+
+
+**Author Name:** Vempalli Rizwana
+
+**Email ID:**  rrizzu139@gmail.com
 
