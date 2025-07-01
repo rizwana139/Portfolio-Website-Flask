@@ -15,7 +15,7 @@ This site showcases my skills, technical background, and includes a contact form
 
 - **Backend:** Python, Flask  
 - **Frontend:** HTML, CSS  
-- **Tools:** VS Code, Git, GitHub
+- **Tools:** VS Code, GitHub
 
 ## Outcome
 
